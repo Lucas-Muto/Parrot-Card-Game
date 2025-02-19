@@ -3,17 +3,6 @@
 ## Visão Geral
 O Parrot Card Game é um jogo da memória implementado com JavaScript puro, seguindo uma arquitetura modular com funções bem definidas para cada responsabilidade do jogo. A aplicação é totalmente responsiva e utiliza animações CSS para proporcionar uma experiência interativa.
 
-## Estrutura do Projeto
-
-parrot-card-game/
-├── index.html # Estrutura base HTML
-├── css/
-│ ├── reset.css # Reset CSS padrão
-│ └── styles.css # Estilos e animações
-├── js/
-│ └── script.js # Lógica do jogo
-└── imagens/ # Assets do jogo
-
 ## Lógica do Jogo
 
 ### Gerenciamento de Estado
