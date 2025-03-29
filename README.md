@@ -1,5 +1,8 @@
 # 🦜 Parrot Card Game - Documentação
 
+## Deploy
+O projeto está disponível em: [Link do Deploy](https://zap-recall-azure.vercel.app)
+
 ## Visão Geral
 O Parrot Card Game é um jogo da memória implementado com JavaScript puro, seguindo uma arquitetura modular com funções bem definidas para cada responsabilidade do jogo. A aplicação é totalmente responsiva e utiliza animações CSS para proporcionar uma experiência interativa.
 
